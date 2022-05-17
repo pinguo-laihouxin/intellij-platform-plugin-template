@@ -30,7 +30,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("cn.hutool:hutool-all:5.6.0")
+    compileOnly("cn.hutool:hutool-all:5.8.1")
 }
 
 // Configure gradle-intellij-plugin plugin.
