@@ -15,7 +15,7 @@ plugins {
     // gradle-changelog-plugin - read more: https://github.com/JetBrains/gradle-changelog-plugin
     id("org.jetbrains.changelog") version "1.1.2"
     // read more  https://github.com/ben-manes/gradle-versions-plugin gradle-upgrade-interactive
-    id("com.github.ben-manes.versions") version "0.38.0"
+    id("com.github.ben-manes.versions") version "0.43.0"
 }
 
 group = properties("pluginGroup")
